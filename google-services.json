@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "194014177273",
+    "firebase_url": "https://university-selector-uss.firebaseio.com",
+    "project_id": "university-selector-uss",
+    "storage_bucket": "university-selector-uss.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194014177273:android:2fbfce730a7da53fe4bf28",
+        "android_client_info": {
+          "package_name": "university.selector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194014177273-j1b52pd3cafd64ppanue4mgtg3j5ilih.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHTuToCgTeVq9z3f_hB7UZYZHaQTsyaFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194014177273-j1b52pd3cafd64ppanue4mgtg3j5ilih.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
